@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Chat\\ChatApplication\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ChatApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ChatApplication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Chat\\ChatApplication\\wwwroot\\homepage.css",
+      "PackagePath": "staticwebassets\\homepage.css"
+    },
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Chat\\ChatApplication\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Chat\\ChatApplication\\wwwroot\\register.css",
+      "PackagePath": "staticwebassets\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Chat\\ChatApplication\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Chat\\ChatApplication\\wwwroot\\tables.sql",
+      "PackagePath": "staticwebassets\\tables.sql"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ChatApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ChatApplication.props",
+      "PackagePath": "build\\ChatApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatApplication.props",
+      "PackagePath": "buildMultiTargeting\\ChatApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ChatApplication.props",
+      "PackagePath": "buildTransitive\\ChatApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
